@@ -1,2 +1,2 @@
-# Mern-Estate-
-My Full Stack Project
+# Mern-Estate
+Full Stack Mern Project
