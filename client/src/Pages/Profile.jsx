@@ -191,7 +191,9 @@ export default function Profile() {
                     alt='profile'
                     className='rounded-full h-24 w-24 object-cover cursor-pointer self-center mt-2'
                 />
+                {/* bring it to the center */}
                 <p className='text-sm self-center'>
+                    {/* error in uploading the file */}
                     {fileUploadError ? (
                         <span className='text-red-700'>
                             Error Image upload (image must be less than 2 mb)
